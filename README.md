@@ -43,11 +43,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <br/>
 
-<div align=center>
-	<p>🏆 Baekjoon solved rank 🏆</p>
+  <h2>🏆 Baekjoon solved rank 🏆</h2>
 	<a href="https://solved.ac/kdk95"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=loong2&theme=dark"/></a>
 	<img src="http://mazandi.herokuapp.com/api?handle=loong2&theme=warm"/>
-</div>
-
 </div>
